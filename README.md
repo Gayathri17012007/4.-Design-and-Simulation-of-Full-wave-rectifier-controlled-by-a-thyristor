@@ -66,5 +66,25 @@ After analysing the simulated output,
 (iv)Write your inference.
 
 ## Simulation
+
+<img width="1818" height="793" alt="Screenshot 2025-09-13 121502" src="https://github.com/user-attachments/assets/c703a04f-a109-474f-b3dc-3b701a0957d2" />
+
 ## Output
+
+(i) VARIOUS SIMULATED WAVEFORMS:
+
+<img width="1908" height="978" alt="Screenshot 2025-09-13 121556" src="https://github.com/user-attachments/assets/ad83d221-050d-4fc6-8501-674826bf6da3" />
+
+(ii) THE VALUE OF RESISTANCE IS 1 ohm AND THE WAVEFORM:
+
+<img width="1916" height="995" alt="Screenshot 2025-09-13 121624" src="https://github.com/user-attachments/assets/a88f3a60-4adb-4fbe-89e0-87447f783219" />
+
+(iii) THE FIRING ANGLE TO 90 DEGREE AND THE WAVEFORM:
+
+<img width="1911" height="989" alt="Screenshot 2025-09-13 121719" src="https://github.com/user-attachments/assets/dfe94518-f083-40b5-be31-35b8c4f4877d" />
+
+
+
 ## Result
+
+Thus ,the Experiment has been stimulated and the ouput has been verified using matlab successfully.
